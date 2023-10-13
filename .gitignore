@@ -1,0 +1,6 @@
+*.png
+*.jpg
+Sand_production_documentation.ipynb
+Sand_production_5.ipynb
+.DS_Store
+.ipynb_checkpoints/
